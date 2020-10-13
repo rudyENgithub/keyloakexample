@@ -15,7 +15,7 @@
   <properties>
     <depends-maven-plugin-version>1.2</depends-maven-plugin-version>
     <felix-configadmin-version>1.4.0</felix-configadmin-version>
-    <junit-version>4.11</junit-version>
+    <junit-version>4.13.1</junit-version>
     <slf4j-version>1.6.6</slf4j-version>
     <karaf-version>2.3.3</karaf-version>
     <pax-exam-version>2.6.0</pax-exam-version>
